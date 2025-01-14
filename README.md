@@ -1,6 +1,6 @@
-# test_kompas
+# Kompas Kiblat Graha Bhakti Nusa
 
-A new Flutter project.
+Flutter project untuk salah satu bagian dari aplikasi mobile Graha Bhakti Nusa pada kegiatan pengabdian pada masyarakat.
 
 ## Getting Started
 
